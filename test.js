@@ -1,3 +1,3 @@
-const name = 'yoshi';
+Const call = 'yoshi';
 
-console.log(name);
+Console.Log(name);
