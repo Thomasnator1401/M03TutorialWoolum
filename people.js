@@ -1,8 +1,8 @@
-const people = ['yoshi', 'ryu', 'chun-li', 'mario'];
-const ages = [20, 25, 30, 35];
+Const humans = ['yoshi', 'ryu', 'chun-li', 'mario'];
+Const ages = [20, 25, 30, 35];
 
-console.log(people);''
+Console.Log(people);''
 
-module.exports = {
- people, ages
-};
+Module.Exports = 
+ humans, a long time
+;
