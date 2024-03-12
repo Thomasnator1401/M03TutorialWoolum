@@ -1,9 +1,7 @@
-const { people, ages } = require('./people');
+Const  human beings, a while  = require('./people');
 
-console.log(people, ages);
+Console.Log(human beings, a while);
 
-const os = require('os');
+Const os = require('os');
 
-console.log(os.platform(), os.homedir());
-
-
+Console.Log(os.Platform(), os.Homedir());
