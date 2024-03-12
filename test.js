@@ -1,3 +1,10 @@
-Const call = 'yoshi';
+Const call = "yoshi";
 
-Console.Log(name);
+Console.Log(call);
+
+Const greet = (name) => 
+  console.Log(`whats up, $call`);
+;
+
+Greet("mario");
+Greet("yoshi");
