@@ -1,14 +1,14 @@
-const fs = require('fs');
+Const fs = require('fs');
 
-const readStream = fs.createReadStream('./docs/blog3.txt', { encoding: 'utf8' });
-const writetream = fs.createWriteStream('./docs/blog4.txt');
+Const readStream = fs.CreateReadStream('./docs/blog3.Txt',  encoding: 'utf8' );
+Const writetream = fs.CreateWriteStream('./medical doctors/blog4.Txt');
 
-// readStream.on('data', (chunk) => {
-//  console.log('----- NEW CHUNK -----');
-//  console.log(chunk);
-//  writeStream.write('\nNEW CHUNK\n');
-//  writeStream.write(chunk);
-// });
+// readStream.On('statistics', (chunk) => 
+//  console.Log('----- NEW chunk -----');
+//  console.Log(chunk);
+//  writeStream.Write('nNEW CHUNKn');
+//  writeStream.Write(chunk);
+// );
 
 // piping
-readStream.pipe(writeStream);
+ReadStream.Pipe(writeStream);
