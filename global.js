@@ -1,17 +1,17 @@
-// Global object
+// worldwide object
 
-// console.log(global);
+// console.Log(global);
 
-// global.setTimeout(() => {
-//     console.log('in the timeout');
+// international.SetTimeout(() => 
+//     console.Log('inside the timeout');
 //     clearInterval(int);
-// }, 3000);
+// , 3000);
 
-// const int = setInterval(() => {
-//     console.log('in the interval');
-// }, 1000);
+// const int = setInterval(() => 
+//     console.Log('in the c language');
+// , a thousand);
 
-// console.log(_dirname);
-// console.log(_filename);
+// console.Log(_dirname);
+// console.Log(_filename);
 
-console.log(document.querySelector);
+Console.Log(file.QuerySelector);
